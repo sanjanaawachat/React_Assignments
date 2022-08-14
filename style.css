@@ -1,0 +1,115 @@
+.box_container {
+  background-image: linear-gradient(rgb(155, 49, 49), rgb(157, 70, 84), rgb(221, 221, 111), rgb(109, 62, 70), rgb(65, 59, 81));
+  height: 198vh;
+}
+
+h1 {
+  text-align: center;
+  font-size: 45px;
+  color: white;
+}
+
+label {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.text1 {
+  width: 200px;
+  height: 40px;
+  border-radius: 7px 15px;
+  font-size: 12px;
+  text-align: center;
+
+}
+
+.text2 {
+  width: 200px;
+  height: 40px;
+  border-radius: 7px 15px;
+  font-size: 12px;
+  text-align: center;
+}
+
+.text3 {
+  width: 200px;
+  height: 40px;
+  border-radius: 7px 15px;
+  font-size: 12px;
+  text-align: center;
+}
+
+form {
+  width: 400px;
+  height: 350px;
+  text-align: center;
+  background-color: rgb(224, 148, 163);
+  position: absolute;
+  left: 330px;
+  bottom: 1px;
+  padding: 20px;
+  border-radius: 15px 3px 25px;
+}
+
+button {
+  height: 50px;
+  width: 90px;
+  background-color: lightgrey;
+  border-radius: 15px;
+  cursor: pointer;
+
+}
+
+button:hover {
+  background-color: grey;
+}
+
+.box1 {
+  text-align: center;
+}
+
+.box2 {
+  text-align: center;
+}
+
+.box3 {
+  text-align: center;
+}
+
+.box4 {
+  text-align: center;
+}
+
+.container {
+  width: 800px;
+  height: 300px;
+  background-image: linear-gradient(lightyellow, rgb(160, 127, 65), rgb(65, 145, 65), rgb(210, 93, 93));
+  position: relative;
+  top: 400px;
+  left: 130px;
+  align-items: center;
+
+}
+
+.text4 {
+  height: 45px;
+  line-height: 20px;
+  width: 390px;
+  text-align: center;
+  border: 1px solid black;
+  background-color: rgb(150, 234, 197);
+  border-radius: 15px;
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+hr {
+  position: absolute;
+  bottom: 150px;
+  color: black;
+}
+
+p {
+  text-align: center;
+}
